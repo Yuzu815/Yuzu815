@@ -8,6 +8,7 @@
 
 ✨ 偶尔期望萌萌哒的生活 ✨
 
-![](https://github-readme-stats.vercel.app/api?username=yz-hl)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yz-hl&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=yz-hl)
