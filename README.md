@@ -6,8 +6,6 @@
 
 🔭 希望在ACM竞赛中取得不错的成绩
 
-✨ 偶尔期望萌萌哒的生活 ✨
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yz-hl&layout=compact)
 
