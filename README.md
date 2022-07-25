@@ -13,6 +13,8 @@
 🔭 Occasionally develops toys that are not really useful according to myself ideas.
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzu815&layout=compact)
-
 ![](https://github-readme-stats.vercel.app/api?username=Yuzu815)
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Yuzu815&theme=minimal" />
+</div>
