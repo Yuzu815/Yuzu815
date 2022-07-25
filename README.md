@@ -1,14 +1,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yuzu815" alt="Yuzu815" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&color=FF7C04&vCenter=true&lines=Hi!+Here+is+yuzu815!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&color=FF7C04&vCenter=true&lines=Hi!+Here+is+Pupil.2048!)](https://git.io/typing-svg)
 
-👋 一个正在努力追赶大佬的小萌新
+👋 A beginner who wishes to become a full-stack engineer.
 
-🌱 目前偶像是[liuchuo](https://liuchuo.net)
+🎇 Hope to benefit from open source and feed back into it.
 
-💬 偶尔会写一点便利自己的小工具
+🌱 My idol is [liuchuo](https://liuchuo.net), and I hope to be an exporter of knowledge like her.
 
-🔭 希望在ACM竞赛中取得不错的成绩
+💬 A former algorithm competitor who is now considering whether to pursue postgraduate or a career in practical development.
+
+🔭 Occasionally develops toys that are not really useful according to myself ideas.
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzu815&layout=compact)
