@@ -14,6 +14,8 @@
 
 🔭 Occasionally develops toys that are not really useful according to myself ideas.
 
+🕊️ Working on an internal source project. So my Github is on hold for updates.
+
 ![](https://github-readme-stats.vercel.app/api?username=Yuzu815)
 
 <div align="center">
