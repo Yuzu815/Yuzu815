@@ -16,8 +16,6 @@
 
 🕊️ Working on an internal source project. So my Github is on hold for updates.
 
-![](https://github-readme-stats.vercel.app/api?username=Yuzu815)
+![Metrics](/github-metrics.svg)
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Yuzu815&theme=minimal" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Yuzu815)
