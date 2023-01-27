@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coredns/coredns</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CoreDNS is a DNS server that chains plugins</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keepassxreboot/keepassxc</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.</div>
@@ -308,7 +308,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        6.60k
+                                        6.61k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>avwo/whistle</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HTTP, HTTP2, HTTPS, Websocket debugging proxy</div>
@@ -377,7 +377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jan 2023, 00:46:03  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 27 Jan 2023, 00:47:50  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
