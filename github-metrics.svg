@@ -30,9 +30,9 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ray-project/ray</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thu-ml/tianshou</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An elegant PyTorch deep reinforcement learning library.</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PyTorch implementations of deep reinforcement learning algorithms and environments</div>
@@ -377,7 +377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Apr 2023, 00:44:31  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Apr 2023, 00:45:45  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
