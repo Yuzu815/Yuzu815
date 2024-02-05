@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>protocolbuffers/protobuf-go</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go support for Google's protocol buffers</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>protocolbuffers/protobuf</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Protocol Buffers - Google's data interchange format</div>
@@ -377,7 +377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Feb 2024, 00:42:07  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Feb 2024, 00:39:58  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
