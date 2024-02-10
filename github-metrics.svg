@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lxgw/LxgwWenKai</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>protocolbuffers/protobuf-go</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go support for Google's protocol buffers</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>protocolbuffers/protobuf</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Protocol Buffers - Google's data interchange format</div>
@@ -377,7 +377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Feb 2024, 00:37:58  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2024, 00:37:32  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
