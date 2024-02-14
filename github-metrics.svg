@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gin-gonic/gin</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lxgw/LxgwWenKai</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>protocolbuffers/protobuf-go</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jan 14 2024</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go support for Google's protocol buffers</div>
@@ -377,7 +377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Feb 2024, 00:39:28  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2024, 00:39:11  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
